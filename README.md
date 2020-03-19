@@ -1,7 +1,5 @@
 # cdn-assets
 
-在GitHub存放壁纸
-
 获取路径： https://www.jsdelivr.com/package/gh/xaoxuu/cdn-assets
 
 也可以直接拼接路径：
